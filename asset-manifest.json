@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zubair-kiet/splitBill/static/css/main.a4c28843.css",
+    "main.js": "/zubair-kiet/splitBill/static/js/main.018447ca.js",
+    "index.html": "/zubair-kiet/splitBill/index.html",
+    "main.a4c28843.css.map": "/zubair-kiet/splitBill/static/css/main.a4c28843.css.map",
+    "main.018447ca.js.map": "/zubair-kiet/splitBill/static/js/main.018447ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4c28843.css",
+    "static/js/main.018447ca.js"
+  ]
+}
